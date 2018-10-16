@@ -1,0 +1,10 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 4.6.6
+ */
+
+// Database 'db'
+
+// db.localbase
+
+[{"no":"1","city":"\u5609\u7fa9\u5e02","lat":"23.479688","lon":"120.449719"}]
